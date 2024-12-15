@@ -13,9 +13,11 @@ list_of_files =[
     "src/pipeline/prediction_pipeline.py",
     "src/logger.py",
     "src/exception.py",
+    "src/utils.py",
     "templates/index.html",
     "requirements.txt",
-    "setup.py"
+    "setup.py",
+    "README.md"
 ]
 
 for filepath in list_of_files:
